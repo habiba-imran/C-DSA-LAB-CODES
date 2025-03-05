@@ -3,6 +3,7 @@
 #include<iostream>
 #include<iomanip>
 #include<cmath>
+#include<cctype>
 
 template<class T>
 class DataAnalysis {
@@ -137,7 +138,7 @@ int DataAnalysis<T>::mode(T* array, int size) {
 
 	if (index == size) {
 		int temp_index = index;
-		index = 0; 
+		index = 0;
 		return mode_value;
 	}
 
@@ -159,12 +160,13 @@ int DataAnalysis<T>::mode(T* array, int size) {
 
 template<class T>
 int DataAnalysis<T>::search(T* array, int size, int num) {
+	if (size == 0) {
+		return -1; 
+	}
 	if (array[size - 1] == num) {
-		return (size - 1);
+		return size - 1; 
 	}
-	else {
-		return search(array, size - 1, num);
-	}
+	return search(array, size - 1, num);
 }
 
 #endif
