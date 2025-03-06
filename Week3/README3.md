@@ -17,7 +17,7 @@ This repository contains a collection of C++ programs demonstrating recursion co
 
 ## Example 3.1: Factorial
 
-Calculates the factorial of a number recursively.
+Calculates factorial of a number recursively.
 
 ```cpp
 int Factorial(int n) {
