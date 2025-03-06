@@ -21,7 +21,7 @@ This lab task focuses on implementing various C++ concepts, including operator o
 - A template function GetMax() is implemented to find the maximum of two values of different types.
 
 ### *Example 1.4: Template Class (Maximum Value)*  
-- A template class myPair is defined to return the maximum of two values.
+- A template class myPair is defined to return the maximum of the two values.
 
 ### *Example 1.4 (Modified): Template Class (Minimum Value)*  
 - The template class myPair is extended to find the minimum of two values.
