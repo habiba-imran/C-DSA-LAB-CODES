@@ -27,7 +27,7 @@ This week's lab focuses on implementing the **stack** data structure using both 
 
 ## 🚀 Learning Outcomes
 - Understanding **stack operations** in C++.
-- Implementing **dynamic memory allocation** for flexible memory handling.
+- Implementing **dynamic memory allocation** for the flexible memory handling.
 - Using **stacks for practical applications** like string reversal and expression validation.
 
 ---
