@@ -13,7 +13,7 @@ The **dynamic queue** is implemented using a linked list.
 - No fixed size constraint, can grow dynamically.  
 
 ## 3. Palindrome Checker using Deque (`DeQue.cpp`, `DeQue.h`)  
-A **double-ended queue (Deque)** is used to check whether a given string is a palindrome.  
+A **double-ended queue (Deque)** is used to check whether the given string is a palindrome.  
 - **Operations**: `insertFront()`, `insertRear()`, `removeFront()`, `removeRear()` 
 - Works efficiently for checking palindromes by comparing characters from both ends.  
 
