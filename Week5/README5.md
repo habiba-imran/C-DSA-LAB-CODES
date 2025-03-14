@@ -4,7 +4,7 @@ This repository contains an implementation of a **Priority Queue (PQueue)** usin
 
 ## 📌 Overview  
 
-A **priority queue** is a data structure that allows elements to be stored and removed based on their priority, rather than the order in which they were added. Tasks with a higher priority are removed before those with lower priority.  
+A **priority queue** is a data structure that allows elements to be stored and removed based on their priority, rather than the order in which they were added. Tasks with a higher priority are removed before those with the lower priority.  
 
 🔹 **`Queue<T>`** handles the queue functionality for each priority level.  
 🔹 **`PQueue<T>`** manages multiple `Queue` objects, each corresponding to a priority level.  
