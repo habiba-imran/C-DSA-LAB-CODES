@@ -1,6 +1,3 @@
-Here is your properly formatted **Markdown** file with emojis:  
-
-```md
 # 🔁 Recursion Examples and Exercises  
 
 This repository contains a collection of C++ programs demonstrating **recursion concepts**, including factorial, reverse printing, power calculation, the Ackermann function, and more.  
