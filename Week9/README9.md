@@ -86,4 +86,3 @@ Sorting your string: e h l l o
 📝 MIT License – Feel free to use and modify this code!
 ```
 
-Would you like to include a flowchart or diagram showing how the BST works too?
