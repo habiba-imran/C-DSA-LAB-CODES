@@ -1,4 +1,3 @@
-```markdown
 # 🌳 Binary Search Tree (BST) in C++
 
 This project implements a **generic Binary Search Tree (BST)** in C++ using templates. It provides common operations such as insertion, deletion, retrieval, traversal, and counting nodes.
